@@ -1,0 +1,7 @@
+name: DeathSwap
+version: ${project.version}
+main: xyz.pugly.deathswap.DeathSwap
+api-version: 1.16
+commands:
+  toggle:
+    description: Toggles the gamemode.
